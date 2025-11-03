@@ -21,7 +21,7 @@ A web application that connects customers with local service providers.
 
 
 ## Project Structure
-- MVC-like Architecture - Organized code structure
+- MVC like Architecture - Organized code structure
 - Database-Driven - Dynamic content from MySQL
 
 
